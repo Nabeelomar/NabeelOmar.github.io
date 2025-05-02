@@ -1,5 +1,5 @@
 ---
-title:  "Professional Introduction"
+Professional Introduction
 ---
 
 www.linkedin.com/in/nabeelao
